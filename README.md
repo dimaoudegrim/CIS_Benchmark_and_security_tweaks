@@ -1,7 +1,7 @@
 # CIS_Benchmark_and_security_registry_tweaks_for_home_users
 Please check which settings are fit to your needs, few of these settings aren't oriented to organizations.
 The settings are for Windows 11.
-
+Disclaimer: I used Perplexity for summerize the titles or description in this readme.
 ________________________________________
 🔒 Lock Screen
 *	NoLockScreenCamera — Prevents the camera from being accessible on the lock screen
